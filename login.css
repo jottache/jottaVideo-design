@@ -130,3 +130,11 @@ body{
     width: 50px;
     height: 50px;
 }
+.no-account a{
+    text-decoration: none;
+    background: -webkit-linear-gradient(30deg,#e102bf,#0ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 18px;
+    font-weight: bold;
+}
